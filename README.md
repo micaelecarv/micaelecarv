@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**micaelecarv/micaelecarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Micaele Carvalho
+[![Linkedin Badge](https://img.shields.io/badge/-micaelecarv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/micaelecarvalho/)](https://www.linkedin.com/in/micaelecarvalho/)
+[![Gmail Badge](https://img.shields.io/badge/-micaelecarv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:micaelecarv@gmail.com)](mailto:micaelecarv@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Oie 👋, 
+Eu sou a Mica, Designer de Aprendizagem.  
+
+- 🔭 Atualmente estou trabalhando com o desenho de soluções de aprendizagem
+- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
+- 💬 Pergunte-me sobre: desenho de soluções de aprendizagem, e processos de ux design.
+
