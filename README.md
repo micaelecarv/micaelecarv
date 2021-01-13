@@ -5,7 +5,7 @@
 
 
 ## Oie 👋, 
-Eu sou a Mica, Designer de Aprendizagem na Somos Tera. E estudante de engenharia de Software na Estácio de Sá. Me apaixonei pela tecnologia há 1 ano quando conheci a reprograma, iniciativa que fomenta o desenvolvimento e inserção de mulheres na tecnologia.
+Eu sou a Mica, Designer de Aprendizagem na Somos Tera. E estudante de engenharia de Software na Universidade Tiradentes. Me apaixonei pela tecnologia há 1 ano quando conheci a reprograma, iniciativa que fomenta o desenvolvimento e inserção de mulheres na tecnologia.
 
 - 🔭 Atualmente estou trabalhando com o desenho de soluções de aprendizagem, e aprimorando meus conhecimentos em software
 - 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
