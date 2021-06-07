@@ -10,4 +10,3 @@ Eu sou a Mica, Designer de Aprendizagem na Somos Tera. E estudante de engenharia
 - 🔭 Atualmente estou trabalhando com o desenho de soluções de aprendizagem, e aprimorando meus conhecimentos em software
 - 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
 - 💬 Pergunte-me sobre: desenho de soluções de aprendizagem, Processos de ux design.
-- 👩‍💻 Atualmente estou desenvolvendo o "Code Power Girl", onde irei documentar a minha trajetória com tecnologia, desenvolvimento de produtos e negócios. Lá irei sintetizar o meu aprendizado e conhecimento em formatos de microlearnings para despertar e desenvolver outras mulheres interessadas em ingressar na área de tecnologia.
